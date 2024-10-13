@@ -8,7 +8,7 @@ Home
 .. image:: /images/full-demo.gif
     :alt: full-demo gif
 
-`bpython` is a fancy interface to the Python interpreter for Linux, BSD, OS X
+`bpython` is a fancy interface to the Python interpreter for Linux, BSD, macOS
 and Windows (with some work). `bpython` is released under the MIT License. It has
 the following (special) features:
 
