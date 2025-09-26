@@ -37,7 +37,7 @@ if you have any problems before reporting bugs).
 
 Debian
 ------
-David Paleino maintains the bpython package. The package is included since
+Sebastian Ramacher maintains the bpython package. The package is included since
 the release of squeeze. You can install it with:
 
 .. code-block:: shell
