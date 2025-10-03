@@ -17,7 +17,7 @@ well.
 Release tarball
 ===============
 The latest release for bpython is **0.25** and you can download it from `PyPI`_.
-You can also finde older releases there.
+You can also find older releases there.
 
 .. _PyPI: https://pypi.org/project/bpython/
 
